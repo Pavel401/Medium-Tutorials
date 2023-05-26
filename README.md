@@ -1,17 +1,57 @@
-# capture_widget
 
-A new Flutter project.
+# Flutter Widget to Image Converter Demo
 
-## Getting Started
+This is a Flutter app demo that showcases the functionality of converting any Flutter widget to an image.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Convert any Flutter widget to an image.
+- Share the converted image with other apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Medium-Tutorials
+![Screenshot_1685127321](https://github.com/Pavel401/Medium-Tutorials/assets/47685150/a1be54f2-ac9e-4f0c-bdad-0faa4bb8bc72)|!
+
+https://github.com/Pavel401/Medium-Tutorials/assets/47685150/c6b8fde1-9fb0-4a29-851c-23c61e449d4d
+
+
+
+## Requirements & packages
+
+- Flutter SDK (version latest)
+-  path_provider: ^2.0.15 ( for storage path)
+-  share_plus: ^7.0.1 / social_share: ^2.3.1 (intent to open sharing bottom sheet)
+-  sizer: ^2.0.15 (optional to calculate size)
+
+
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+2. Change to the project directory:
+
+```bash
+cd your-repository
+```
+
+3. Install the dependencies:
+
+```bash
+flutter pub get
+```
+
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+```
+```
