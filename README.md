@@ -30,7 +30,7 @@ https://github.com/Pavel401/Medium-Tutorials/assets/47685150/c6b8fde1-9fb0-4a29-
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Pavel401/Medium-Tutorials
 ```
 
 2. Change to the project directory:
